@@ -79,4 +79,4 @@ This prototype was created to demonstrate the basic workflow of a digital crop d
 
 It focuses on visualizing stakeholder interaction and data flow rather than backend implementation.
 
-FasalMitra (Still under development)[https://darling-dasik-d05a63.netlify.app/]
+[FasalMitra (Still under development)](https://darling-dasik-d05a63.netlify.app/)
