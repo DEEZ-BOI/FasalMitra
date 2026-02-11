@@ -64,7 +64,7 @@ Data is passed between pages using URL parameters to simulate backend integratio
 ---
 
 
-## 🎯 Purpose
+##  Purpose
 
 This prototype was created to demonstrate the basic workflow of a digital crop deposit and loan approval system using a simple front-end simulation.
 
