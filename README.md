@@ -1,4 +1,4 @@
-# 🌾 FasalMitra – Prototype
+#  FasalMitra – Prototype
 
 FasalMitra is a front-end prototype that demonstrates how warehouse-stored crops can be digitally recorded and used to simulate post-harvest loan approval.
 
@@ -11,7 +11,7 @@ This version is a proof-of-concept built to demonstrate system flow between:
 
 ---
 
-## 📌 What This Prototype Shows
+##  What This Prototype Shows
 
 This project demonstrates:
 
@@ -25,7 +25,7 @@ The goal is to simulate how stored agricultural produce can be treated as a veri
 
 ---
 
-## 🔄 Prototype Flow
+##  Prototype Flow
 
 1. **Warehouse Entry (`warehouse.html`)**
    - Staff enters Farmer ID, Crop Type, Quantity, and Quality.
@@ -52,7 +52,7 @@ The goal is to simulate how stored agricultural produce can be treated as a veri
 
 
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
@@ -63,15 +63,6 @@ Data is passed between pages using URL parameters to simulate backend integratio
 
 ---
 
-## 🧪 How to Run
-
-1. Download or clone the repository.
-2. Open `warehouse.html` in a browser.
-3. Follow the flow by clicking through the pages.
-
-No backend or installation required.
-
----
 
 ## 🎯 Purpose
 
