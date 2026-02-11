@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  margin: 40px;
+}
+
+input, button {
+  margin: 5px 0;
+  padding: 8px;
+}
+
+body {
+  background:
+  linear-gradient(to bottom, rgba(0,0,0,0.6), rgba(0,0,0,0)),
+  url("BG2.jpg") no-repeat;
+
+}
